@@ -33,4 +33,7 @@ curl --location --request POST 'http://localhost:4242/api/admin/projects/default
   "description": "First feature toggle",
   "impressionData": false
 }'
+
+When you're done, shutdown the stack:
+docker compose down
 ```
