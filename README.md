@@ -5,6 +5,9 @@ Repo to get to know some features from Unleash.
 [Unleash GitHub](https://github.com/Unleash/unleash)  
 [Java SDK](https://docs.getunleash.io/reference/sdks/java)    
 [Unleash Doc](https://docs.getunleash.io/)  
+[Feature Toggles (aka Feature Flags)](https://martinfowler.com/articles/feature-toggles.html)  
+[Feature Toggle vs. Feature Flag: The Rise of the Flag](https://launchdarkly.com/blog/is-it-a-feature-flag-or-a-feature-toggle/)  
+[O que são Feature Flags ou Feature Toggles?](https://www.alura.com.br/artigos/o-que-sao-feature-flags-feature-toggles)    
 
 ## Commands
 ```
